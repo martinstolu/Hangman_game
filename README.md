@@ -1,4 +1,5 @@
 Description:
+
 A Python implementation of the classic Hangman game. The player must guess a word, one letter at a time, before running out of attempts. The game provides feedback for each guess, showing which letters are correct or incorrect.
 
 Key Features:
